@@ -26,6 +26,13 @@ git push -u origin master
 [gradle部分依赖](https://github.com/vcyj/Reviewsomething/blob/master/gradle_config.md)
 ## 2.markdown格式示例
 [markdown示例](https://markdown-it.github.io/)
+## 3.常用api网址
+### 天气接口
+[天津天气api](http://t.weather.sojson.com/api/weather/city/101030100)
+[不同城市的id](https://github.com/baichengzhou/weather.api/blob/master/src/main/resources/citycode-2019-08-23.json)
+#### 示例
+	http://t.weather.sojson.com/api/weather/city/101030100
+
 ## 待更新。。。。。
 
 >>>>>>> 格式
