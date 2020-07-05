@@ -10,6 +10,7 @@
 ## Okhttp 网络请求
 	implementation("com.squareup.okhttp3:okhttp:4.7.2")
 ## Gson 解析json文件
+	implementation 'com.google.code.gson:gson:2.8.6'
 ## Glide 加载网络图片
 	implementation 'com.github.bumptech.glide:glide:4.11.0'
 	annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
