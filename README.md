@@ -24,7 +24,7 @@ git push -u origin master
 # Part2
 ## 1.gradle的基本配置，第三方依赖库的引用（gradle4.0.0）
 [gradle部分依赖](https://github.com/vcyj/Reviewsomething/blob/master/gradle_config.md)
-##2.markdown格式示例
+## 2.markdown格式示例
 [markdown示例](https://markdown-it.github.io/)
 ## 待更新。。。。。
 
